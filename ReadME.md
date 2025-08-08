@@ -82,13 +82,6 @@ Please follow these steps to contribute:
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-
-This project is licensed under the MIT License. See the LICENSE Link for details.
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Acknowledgements
 
 This project was developed as part of my Bachelor's final year project at Eletronics Engineering Department at Mehran University of Engineering and Technology Jamshoro. I would like to thank my supervisors, Dr. Fahim Aziz Umrani and Engr. Khuhed Memon, and Dr Azam Memon for their guidance and support.
