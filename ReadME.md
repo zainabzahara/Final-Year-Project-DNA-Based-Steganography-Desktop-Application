@@ -16,7 +16,6 @@ This project was completed as part of my final year in December 2022. This proje
 - Setup
 - Usage
 - Contributing
-- License
 - Acknowledgements
 ## Introduction
 
